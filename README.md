@@ -1,4 +1,4 @@
-# bmi_app
+# BMI CALCULATOR
 
 ## Our Goal
 
